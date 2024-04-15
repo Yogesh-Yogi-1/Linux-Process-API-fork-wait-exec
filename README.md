@@ -22,6 +22,7 @@ Write the C Program using Linux Process API - fork(), wait(), exec()
 Test the C Program for the desired output. 
 
 # PROGRAM:
+~~~
 
 ## C Program to print process ID and parent Process ID using Linux API system calls
 ## C Program to print process ID and parent Process ID using Linux API system calls
@@ -45,19 +46,6 @@ int main(void)
        printf("The process id of parent function:%d\n",p_process_id);
        return 0;}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ##OUTPUT
 $./pidcheck.o
 The process id:2382
@@ -67,14 +55,6 @@ $ps
 PID TTY       TIME CMD
 2258pts/0     00:00:00 bash
 2392pts/0     00:00:00 ps
-
-
-
-
-
-
-
-
 
 ## C Program to create new process using Linux API system calls fork() and exit()
 #include<stdio.h>
@@ -105,30 +85,11 @@ printf("I am parent, my pid is %d\n",getpid());
 sleep(100);
 exit(0);}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 ##OUTPUT
 $./forkcheck.o
 I am parent, my pid is 13676
 Iam child mypid is 13677
 My parent pid is:13676
-
-
-
-
-
-
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 #include<stdlib.h>
@@ -153,51 +114,10 @@ printf("Running ps with execlp. Now with path specified\n");
           puts("child did not exit successfully\n");
      printf("Done.\n")
      exit(0);}
-     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ##OUTPUT
 $./execcheck2.o
 Running ps with execlp
 child did not exit successfully
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+~~~
 # RESULT:
 The programs are executed successfully.
