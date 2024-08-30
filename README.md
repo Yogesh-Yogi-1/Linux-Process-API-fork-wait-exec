@@ -1,3 +1,5 @@
+# Develop By : Nithya Shree
+# Refg No : 2122232200
 # Linux-Process-API-fork-wait-exec-
 Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
@@ -50,7 +52,9 @@ int main(void)
 ~~~
 
 ## OUTPUT
-![322059149-fc4a585f-bf4c-46e2-8b28-bf0834b838b5](https://github.com/04Varsha/Linux-Process-API-fork-wait-exec/assets/149035374/277a5ef9-b0c2-4e5b-ad59-4a415db2c31c)
+![323363651-277a5ef9-b0c2-4e5b-ad59-4a415db2c31c](https://github.com/user-attachments/assets/33384d49-bf8b-4820-a747-0af2f8058d1c)
+
+
 
 ## C Program to create new process using Linux API system calls fork() and exit()
 ~~~
@@ -71,8 +75,9 @@ exit(0);}
 ~~~
 
 ## OUTPUT
+![323363997-88cf0f5e-c8fc-4341-b71a-c87c6979fdf1](https://github.com/user-attachments/assets/a4d2f0a7-a0e8-4dc1-b169-8461d4d1d6a6)
 
-![322059342-77e05b6f-d0c2-43ee-be5c-16bd0e20cd63](https://github.com/04Varsha/Linux-Process-API-fork-wait-exec/assets/149035374/88cf0f5e-c8fc-4341-b71a-c87c6979fdf1)
+
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 ~~~
@@ -89,8 +94,8 @@ int main()
 ~~~
 
 ## OUTPUT
+![323364224-1842c773-69d6-4a4d-9e90-fd5f92813952](https://github.com/user-attachments/assets/a21ceb66-2448-4e00-9c41-a86191084c4d)
 
-![322059755-ef1d3f60-fadd-482f-86ea-bbf59756cf8b](https://github.com/04Varsha/Linux-Process-API-fork-wait-exec/assets/149035374/1842c773-69d6-4a4d-9e90-fd5f92813952)
 
 # RESULT:
 The programs are executed successfully.
