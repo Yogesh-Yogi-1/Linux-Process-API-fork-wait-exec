@@ -1,7 +1,3 @@
-```
-# Developed By : V. YOGESH
-# Refg No : 212223230250
-```
 # Linux-Process-API-fork-wait-exec-
 Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
@@ -27,9 +23,9 @@ Test the C Program for the desired output.
 
 # PROGRAM:
 
-Developed by : VARSHA A
+Developed by : V.YOGESH
 
-Register Number : 212223220121
+Register Number : 212223230250
 
 ## C Program to print process ID and parent Process ID using Linux API system calls
 ~~~
