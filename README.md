@@ -1,9 +1,7 @@
-\*
 ```
 # Developed By : V. YOGESH
 # Refg No : 212223230250
 ```
-\*
 # Linux-Process-API-fork-wait-exec-
 Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
